@@ -9,6 +9,8 @@ A simple Flask-based web application that allows users to register, login, and l
 - User Login  
 - Session Management  
 - Logout functionality  
+- Password hashing for security
+- Duplicate user prevention
 
 ---
 
